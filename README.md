@@ -1,2 +1,2 @@
-# syllabi
-# syllabi
+# Course Syllabi
+
